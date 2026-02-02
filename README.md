@@ -5,6 +5,9 @@ This repository contains two case-study apps:
 - Trading MTM valuation (in `trading_case`)
 - Weather precipitation assistant (in `weather_case`)
 
+<img width="1327" height="812" alt="Screenshot 2026-02-02 183710" src="https://github.com/user-attachments/assets/aace8d25-a277-4000-8fae-a4a502b5402b" />
+
+
 Quick start (Windows / cmd.exe)
 
 1) Clone and open the repo root
