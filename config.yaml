@@ -1,0 +1,9 @@
+trading:
+  default_input: "trading_case/Trading Case Example Data.xlsx"
+  default_output: "trading_case/MTM_valuation_report.xlsx"
+  # If empty, code will use latest price date from Price sheet
+  default_valuation_date: ""
+
+weather:
+  default_excel: "weather_case/Weather Data Example.xlsx"
+
