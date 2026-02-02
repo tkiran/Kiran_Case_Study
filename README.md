@@ -3,6 +3,12 @@
 This repository contains two case-study apps:
 
 - Trading MTM valuation (in `trading_case`)
+
+  <img width="1121" height="725" alt="image" src="https://github.com/user-attachments/assets/67716f16-9d3d-44d6-8576-7a8a1d66e116" />
+  
+  <img width="1121" height="725" alt="Screenshot 2026-02-02 185711" src="https://github.com/user-attachments/assets/69766d22-9418-4c67-a6ec-6880ecc5bbad" />
+
+  
 - Weather precipitation assistant (in `weather_case`)
 
 <img width="1327" height="812" alt="Screenshot 2026-02-02 183710" src="https://github.com/user-attachments/assets/aace8d25-a277-4000-8fae-a4a502b5402b" />
