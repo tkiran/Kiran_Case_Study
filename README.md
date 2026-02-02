@@ -7,6 +7,12 @@ This repository contains two case-study apps:
 
 <img width="1327" height="812" alt="Screenshot 2026-02-02 183710" src="https://github.com/user-attachments/assets/aace8d25-a277-4000-8fae-a4a502b5402b" />
 
+<img width="533" height="428" alt="Screenshot 2026-02-02 183820" src="https://github.com/user-attachments/assets/fe4f670b-b0e9-4c49-a3a5-54a232c98f69" />
+
+<img width="540" height="436" alt="Screenshot 2026-02-02 183845" src="https://github.com/user-attachments/assets/982103e6-65ca-4240-884e-3fd7d9659b6b" />
+
+
+
 
 Quick start (Windows / cmd.exe)
 
