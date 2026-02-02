@@ -1,7 +1,14 @@
 import argparse
 from pathlib import Path
+import sys
 
-from trading_case.mtm_calculator import generate_daily_mtm_report
+try:
+    from trading_case.mtm_calculator import generate_daily_mtm_report
+except ModuleNotFoundError:
+    # Support running this script directly (python trading_case\run_mtm_report.py)
+    # In that case the script's directory is on sys.path and a package import
+    # using the package name will fail; fall back to a local import.
+    from mtm_calculator import generate_daily_mtm_report
 
 
 def main() -> None:
